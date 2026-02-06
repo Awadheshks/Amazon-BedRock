@@ -4,7 +4,7 @@
 
 If you’re new to Amazon Bedrock or AI concepts, I’d love to walk you through a workshop designed for beginners. I’ll break everything down into simple, practical steps so it’s easy to follow. This workshop focuses on core Amazon Bedrock concepts and how to work with different foundation models in a hands-on way.
 
-![img](https://github.com/Awadheshks/Amazon-Bedrock/blob/7dece6b66835302fed07a1d30e150710d025bab8/assets/AWS%20Bedrock.png)
+![img](https://github.com/Awadheshks/Amazon-Bedrock/blob/857627bcd6b4bfbc768dfca3a9e18e3f017b91ec/assets/AWS%20Bedrock-1.png)
 
 **Providers in the Foundational Models**- Amazon Bedrock Marketplace is a new capability in Amazon Bedrock that enables developers to discover, test, and use over 100 popular, emerging, and specialized foundation models (FMs) - https://aws.amazon.com/bedrock/marketplace/
 
